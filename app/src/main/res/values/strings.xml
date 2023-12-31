@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VolumenFrecuenciaSonido</string>
+    <string name="boton_sonido1">Sonido 1</string>
+    <string name="boton_sonido2">Sonido 2</string>
+</resources>
